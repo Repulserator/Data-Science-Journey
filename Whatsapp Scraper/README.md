@@ -8,7 +8,7 @@ Blessed with peers boasting exceptional music preferences, I found myself in a w
 ### Instructions
 
 Export your whatsapp chats and paste it in the text file (2 samples have been provided)
-Then simply run the notebook, of course you will require the libraries.\ 
+Then simply run the notebook, of course you will require the libraries.
 
 <li> yt-dlp
 <li> ffmpeg
