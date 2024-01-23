@@ -1,0 +1,17 @@
+Almost every necessary explanation has been explained in the comments of the code
+
+The problem was straight forward and the approach was decided after reffering to the text analysis sheet
+
+Requirements to run the python file are given just in case
+
+## Important ### 
+
+If/When you run the program, it will ask you for the files path, ideally place it in the folder with input file stopword and masterdictionary folders.
+In case it isnt places there it will ask you to specify the path to the folder. Ensure that the structure of the folder is exactly the same as the google drive link you shared. (Master Dictionary Folder, Stopwords folder and input excel file)
+
+Proceed and the output will be generated.
+
+
+Thank you,
+Kaustubh Nayak
+
