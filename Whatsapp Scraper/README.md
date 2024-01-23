@@ -21,16 +21,6 @@ It should be fairly straightforward (First 2 cells) and boom, see the magic happ
 
 ### Future
 
-Although it has served its purpose for the moment, I still wish to add 
-
-A routine method so that it can extract chats from whatsapp directly
-
-Add it to the task scheduler so it runs this routinely
-
-
-
-
-
 While effective for the current needs, I would still like to make some improvements.
 
 <li> Introducing a routine method to directly extract chats from WhatsApp
