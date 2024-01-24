@@ -4,9 +4,8 @@ A Conversational Chatbot built using OpenAI ChatGPT, Langchain, Python, and Hugg
 Models. This ongoing project aims to create a tool capable of querying PDF files, enhancing
 information accessibility and processing.
 
-A Majority of explanataion is given in the ipynb file itself.
+A Majority of explanataion is given in the ipynb file itself. And did i mention all of the UI's on a web app? ( ͡° ͜ʖ ͡°)
 
-<br></br>
 
 !["Sneak peek"](pic1.png)
 
