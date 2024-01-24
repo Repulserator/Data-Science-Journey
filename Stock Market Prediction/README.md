@@ -19,3 +19,8 @@ The classic
 
 
 Data was taken from Yahoo finance and the bank in question is ICICI.
+
+
+The final validated dataframe should look like this
+
+!["Sneako"](pic1.png)

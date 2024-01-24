@@ -30,3 +30,10 @@ While effective for the current needs, I would still like to make some improveme
 <li> Convert it to a python file for future incorporations
 
 
+
+### Sneak Peak
+
+I also created a dataframe of all the links and by whom and when, purely for documentation and banter purposes
+
+!["Dataframe"](Music/pic1.png)
+
