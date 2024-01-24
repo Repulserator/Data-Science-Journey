@@ -13,12 +13,6 @@ My analysis included diverse statistical techniques including correlation analys
 The most predictive signals of hit potential proved to be a mix of higher energy, danceability, loudness and lower acousticness. Positive allure of uptempo, lively songs is heightened within the context of social listening platforms like Spotify and Instagram. I also found danceability and energy levels rising progressively over the past decade - which makes perfect sense.
 
 
-
-## Conclusion
-Time series analysis provides valuable insights into song popularity and how it evolves on Spotify. \
-This can help guide music production, marketing and recommendations.
-
-
 ## Conclusion
 - Useful insights into song popularity and changing trends
 - Can guide music production and marketing decisions
