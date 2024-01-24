@@ -18,7 +18,9 @@ A Majority of explanataion is given in the ipynb file itself.
 
 ### Why this?
 
-I tested multiple embedding indexing and LLM models to create a chatbot that could potentially rival chatgpt, the closest that i got was with Meta LLAMA2 and i am using the 7b version which also performed well for my usecase
+I tested multiple embedding indexing and LLM models to create a chatbot that could potentially rival chatgpt, the closest that i got was with Meta LLAMA2 and i am using the 7b version which also performed well for my usecase. I've thrown in an option for users to tinker with different setups and find out what works best for them.
+
+Ensuring this chatbot is a champ at holding onto context and history has been a top priority so that we at least feel, like we are having a converrsation. Moreover, I have also taken into account to optimize execution efficiency; subsequent runs of the bot will benefit from pre-downloaded model instructions and created indexing. This approach significantly reduces the time spent on the preparation phase of the conversation chain during repeated executions.
 
 
 ### Before you use
