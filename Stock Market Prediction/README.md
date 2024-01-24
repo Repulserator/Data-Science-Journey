@@ -1,6 +1,6 @@
 ## Stock Market Prediction
 
-In this project, we aimed to predict the next day closing value of a stock using time series forecasting techniques. We started by gathering historical data of the stock prices, cleaning the data, and transforming it into a format suitable for modeling. We then engineered new features from the data, trained different models, and validated their accuracy on test data. Finally, we used the best-performing model to predict the next day closing value of the stock.\
+In this project, we aimed to predict the next day closing value of a stock using time series forecasting techniques. We started by gathering historical data of the stock prices, cleaning the data, and transforming it into a format suitable for modeling. We then engineered new features from the data, trained different models, and validated their accuracy on test data. Finally, we used the best-performing model to predict the next day closing value of the stock.
 
 Our results show that the selected model was able to closely predict the next day closing value of the stock, with interpretability which can be used to inform future investment decisions. By analyzing this data, it is possible to identify patterns and trends in the stock's performance additionally, machine learning algorithms can be applied to this data to predict future stock prices, based on patterns identified in the historical data.
 
