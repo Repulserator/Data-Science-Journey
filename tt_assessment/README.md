@@ -8,12 +8,13 @@ Overview of the file and process as i didnt have time to cleanly put comments an
 
 - Pretty straight forward, i used feed parser to scrape all the data and the headers and body text.
 - Created a failed dataframe for all data that might have failed. This is mainly because i know that we are going to scrape the body text so while we do that we can get the published date again.
-
+- The reason it failed was because these sites had forbid bots or crawlers (For this a selenium approach would be more appropriate)
 
 ### Part 2 Database 
 
 
 With the data given to me i would choose somthing like this (I have chosen postgres)
+<br></br>
 ![Database picture](pic1.png)
 
 
@@ -80,7 +81,6 @@ This bit is still in progress as i had a lot of trouble integrating everything i
 
 
 
-<center>
-##### Thank you
-</center>
+<p align="center"><b>Thank you</b></p>
+
 
